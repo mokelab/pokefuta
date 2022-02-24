@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pokefuta/static/css/main.f384a1dc.css",
+    "main.js": "/pokefuta/static/js/main.b2f8dd53.js",
+    "static/js/787.ea4a974c.chunk.js": "/pokefuta/static/js/787.ea4a974c.chunk.js",
+    "index.html": "/pokefuta/index.html",
+    "main.f384a1dc.css.map": "/pokefuta/static/css/main.f384a1dc.css.map",
+    "main.b2f8dd53.js.map": "/pokefuta/static/js/main.b2f8dd53.js.map",
+    "787.ea4a974c.chunk.js.map": "/pokefuta/static/js/787.ea4a974c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f384a1dc.css",
+    "static/js/main.b2f8dd53.js"
+  ]
+}
