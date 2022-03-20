@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/pokefuta/static/css/main.f384a1dc.css",
-    "main.js": "/pokefuta/static/js/main.35e9b470.js",
+    "main.css": "/pokefuta/static/css/main.fb8875de.css",
+    "main.js": "/pokefuta/static/js/main.fe1feec6.js",
     "static/js/787.ea4a974c.chunk.js": "/pokefuta/static/js/787.ea4a974c.chunk.js",
     "index.html": "/pokefuta/index.html",
-    "main.f384a1dc.css.map": "/pokefuta/static/css/main.f384a1dc.css.map",
-    "main.35e9b470.js.map": "/pokefuta/static/js/main.35e9b470.js.map",
+    "main.fb8875de.css.map": "/pokefuta/static/css/main.fb8875de.css.map",
+    "main.fe1feec6.js.map": "/pokefuta/static/js/main.fe1feec6.js.map",
     "787.ea4a974c.chunk.js.map": "/pokefuta/static/js/787.ea4a974c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f384a1dc.css",
-    "static/js/main.35e9b470.js"
+    "static/css/main.fb8875de.css",
+    "static/js/main.fe1feec6.js"
   ]
 }
